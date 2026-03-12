@@ -9,4 +9,4 @@ Task Manager By Fahad
 [Click here](https://premium-todo-app-wit-gf8k.bolt.host)
 
 ## Developer
-Made with ⚡ by Fahad Iqbal
+Made with 💗 by Fahad Iqbal
