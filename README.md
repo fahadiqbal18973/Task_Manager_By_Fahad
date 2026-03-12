@@ -1,4 +1,4 @@
-Task Manager](image_name.png)
+[Task Manager](image_name.png)
 
 Task Manager By Fahad
 ## Features
