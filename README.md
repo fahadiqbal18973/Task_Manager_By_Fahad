@@ -1,3 +1,5 @@
+Task Manager](image_name.png)
+
 Task Manager By Fahad
 ## Features
 - Add/Complete tasks
