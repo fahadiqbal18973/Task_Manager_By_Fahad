@@ -1,4 +1,4 @@
-[Task Manager](image_name.png)
+![Preview](483shots_so.png)
 
 Task Manager By Fahad
 ## Features
